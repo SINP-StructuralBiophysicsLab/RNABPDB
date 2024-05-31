@@ -6,6 +6,14 @@
 > or
 > 
 > - http://pdbi.nii.ac.in/~rnabpdb/rnabpdb/
+>   
+> __RNAHelix__ server is available at :
+> 
+> - https://rnabpdb.dbioin.in/Tools/RNAHelix
+>   
+> or
+> 
+> - http://pdbi.nii.ac.in/~rnabpdb/Tools/RNAHelix/
 
 # Base Pair and Base Pair Step Parameters
 
