@@ -1,3 +1,12 @@
+> [!IMPORTANT]  
+> We are very sorry that the old link for __RNABPDB__ was not functional for some time. Now, you can find the database again at our new addresses:
+>
+> - https://rnabpdb.dbioin.in/
+>
+> or
+> 
+> - http://pdbi.nii.ac.in/~rnabpdb/rnabpdb/
+
 # Base Pair and Base Pair Step Parameters
 
 ![Git](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs10822-016-0007-0/MediaObjects/10822_2016_7_Fig1_HTML.gif)
